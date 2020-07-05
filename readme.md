@@ -3,3 +3,5 @@
    - `public T remove(int index)` – gets an index value that may be in the range [0, size - 1]; removes an object at the given index; returns the reference to the removed object in the case of the correct index or null otherwise
      Note: The classwork project contains the private additional methods that you may write for the concrete cases
 1. Write the test cases for above methods of the class `LinkedList`. Try to extend the tests from the previous HW
+
+![alt text](https://github.com/alexshtilman/java_08/blob/master/photo_2020-07-05_10-43-55.jpg?raw=true)
